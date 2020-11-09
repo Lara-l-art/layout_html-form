@@ -1,0 +1,39 @@
+fieldset {
+  margin-bottom: 20px;
+}
+
+input {
+  margin-bottom: 10px;
+}
+
+input:last-child {
+  margin-bottom: 0;
+}
+
+.email-color {
+  color: gray;
+}
+
+input:focus {
+  background: #ffe;
+}
+
+.align {
+  text-align: left;
+}
+
+.test {
+  margin-bottom: 10px;
+}
+
+#age {
+  width: 63px;
+}
+
+#colour {
+  margin-top: 4px;
+}
+
+#rang {
+  margin-top: 12px;
+}
