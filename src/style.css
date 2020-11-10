@@ -1,39 +1,35 @@
-fieldset {
+.box-indent {
   margin-bottom: 20px;
 }
 
-input {
+.inlet {
   margin-bottom: 10px;
 }
 
-input:last-child {
+.inlet:last-child {
   margin-bottom: 0;
 }
 
-.email-color {
+.text-gray {
   color: gray;
 }
 
-input:focus {
+.inlet:focus {
   background: #ffe;
 }
 
-.align {
-  text-align: left;
-}
-
-.test {
+.comments {
   margin-bottom: 10px;
 }
 
-#age {
+.age {
   width: 63px;
 }
 
-#colour {
+.colour {
   margin-top: 4px;
 }
 
-#rang {
+.rate {
   margin-top: 12px;
 }
